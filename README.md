@@ -1,0 +1,4 @@
+# Checker
+测卡器所用的代理方法不是Python Requests自带的函数
+我是通过注册表的代理方法进行代理IP的操作
+通过requests的post将提交的参数上传Mojang服务器
